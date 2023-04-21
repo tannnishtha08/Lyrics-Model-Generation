@@ -1,0 +1,460 @@
+
+----- Generating text after Epoch: 0
+----- Diversity:0.3
+----- Generating with seed:
+"begging for forgiveness at my feet you"
+begging for forgiveness at my feet you i know you know i know is the way you know i know you know you know is the way you want to know you know you know you know is the way you were in the way you was the time you with me in the girl i know
+----- Diversity:0.4
+----- Generating with seed:
+"begging for forgiveness at my feet you"
+begging for forgiveness at my feet you and i know you know you know is the time i i cant be you with you come back to me be the girl i know you come back to be the heart we out of the clear yet in the clear yet yet are we out of the clear
+----- Diversity:0.5
+----- Generating with seed:
+"begging for forgiveness at my feet you"
+begging for forgiveness at my feet you know my time i i know is the time i did you i know you i know that you know you know is the best this time i dont you know you love ill be your heart its to in my heart i wanna be and i know what you
+----- Diversity:0.6
+----- Generating with seed:
+"begging for forgiveness at my feet you"
+begging for forgiveness at my feet you and i know the way you i said i know you alone and i know i just you know what you know youre just and i want to to know you i have a rainy girl is and is the time but im but i was a girl places i
+----- Diversity:0.7
+----- Generating with seed:
+"begging for forgiveness at my feet you"
+begging for forgiveness at my feet you said and i know what you want it so you i want it off i didnt now i be fly on the oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh
+================================================================================
+
+----- Generating text after Epoch: 1
+----- Diversity:0.3
+----- Generating with seed:
+"aint nothing but missing you wishing id"
+aint nothing but missing you wishing id was a getaway car we were dancing dancing like 22 22 22 22 it turns like a jet of exlovers theyll tell you im insane but im not a little girl at a girl at the way home you can see it now that youre the one oh oh oh
+----- Diversity:0.4
+----- Generating with seed:
+"aint nothing but missing you wishing id"
+aint nothing but missing you wishing id was nothing to do and i know that we could work it off it out of the rain oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh
+----- Diversity:0.5
+----- Generating with seed:
+"aint nothing but missing you wishing id"
+aint nothing but missing you wishing id was nothing when i was some time when i did you think that i was a getaway car i was him was worse to stay you had to stay do and i had you in the silence you in the best in your eye dreams you should see your heart
+----- Diversity:0.6
+----- Generating with seed:
+"aint nothing but missing you wishing id"
+aint nothing but missing you wishing id realized what i do you made me do you made me you made me do you made me do you are the one day like we were dancing and our hands hands tied dreams i want you out it what you want call it now you want call it call
+----- Diversity:0.7
+----- Generating with seed:
+"aint nothing but missing you wishing id"
+aint nothing but missing you wishing id wanted cause i see the phone now i cant help it if i dont see you say i did a perfectly good as i got bad bad but but they were down me in a car but im not get a match when i was worse ey ey ey ey
+================================================================================
+
+----- Generating text after Epoch: 2
+----- Diversity:0.3
+----- Generating with seed:
+"simple oh darling dont you ever grow"
+simple oh darling dont you ever grow up dont you ever grow up i could thought i wish you would i wish you would i wish you would i wish you would i wish you would i wish you would i wish you would i wish you would i wish you would i wish you would i
+----- Diversity:0.4
+----- Generating with seed:
+"simple oh darling dont you ever grow"
+simple oh darling dont you ever grow up dont you ever grow up i could thought i would you remember it all the time and i could see the things you come back the time cause we were dancing like were with our hands hands tied yeah we were dancing dancing like were made of starlight like
+----- Diversity:0.5
+----- Generating with seed:
+"simple oh darling dont you ever grow"
+simple oh darling dont you ever grow up never ever ever getting back together you talk to my heart ill be the time we were dancing like the night i could screaming there by the way and i got amen way you just want to tell you cause you know that what youre doing to me do
+----- Diversity:0.6
+----- Generating with seed:
+"simple oh darling dont you ever grow"
+simple oh darling dont you ever grow up just stay this simple i remember you wont let this is it way you let it go oh and you just say yeah yeah im going to be a old old city you ever had to do was stay you had to do was stay all you had to
+----- Diversity:0.7
+----- Generating with seed:
+"simple oh darling dont you ever grow"
+simple oh darling dont you ever grow up i still up in the back of your string i shouldnt be your end game i wanna be your end game end game i wanna be your heart all my heart ill be the heart i wanna be your end game  i wanna be your end game end
+================================================================================
+
+----- Generating text after Epoch: 3
+----- Diversity:0.3
+----- Generating with seed:
+"got a long list of exlovers theyll"
+got a long list of exlovers theyll tell you im insane but you know i love you with me in love you and i know i know places i know places we are never ever ever getting back together we are never ever ever getting back together we are never ever ever getting back together we are
+----- Diversity:0.4
+----- Generating with seed:
+"got a long list of exlovers theyll"
+got a long list of exlovers theyll tell you im insane but you know the story of a dreamer and the scene we had the very first time i was a chance but i was a chance but i knew i had a chance but i was screaming long live all the magic we made and bring
+----- Diversity:0.5
+----- Generating with seed:
+"got a long list of exlovers theyll"
+got a long list of exlovers theyll tell you im insane but baby i know that its a while easy just to think about the things you think about the place where you first met me in a getaway car ohohoh no they never get far ohohahh no nothing good starts in a getaway car was the
+----- Diversity:0.6
+----- Generating with seed:
+"got a long list of exlovers theyll"
+got a long list of exlovers theyll tell you im insane but you know i know that its delicate love you like it right through me wonderstruck of my hair away i cant help it if you knew it was a simple lives in the sky the reputations and i know you are is mean how it
+----- Diversity:0.7
+----- Generating with seed:
+"got a long list of exlovers theyll"
+got a long list of exlovers theyll tell you im insane but you were the kind of those room with on the road but i dont say anymore i didnt em you made a deep girl and your end says your knows is your mind i dont be gonna miss you think about the night i bet
+================================================================================
+
+----- Generating text after Epoch: 4
+----- Diversity:0.3
+----- Generating with seed:
+"so shame on me now flew me"
+so shame on me now flew me to places id never been now im lying on the cold hard ground oh oh trouble trouble oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh
+----- Diversity:0.4
+----- Generating with seed:
+"so shame on me now flew me"
+so shame on me now flew me to places id never been now im lying on the cold hard ground oh oh trouble trouble oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh
+----- Diversity:0.5
+----- Generating with seed:
+"so shame on me now flew me"
+so shame on me now flew me to places id never been now im lying on the cold hard ground oh oh trouble trouble oh oh oh oh oh oh oh oh oh oh dont you dont say a girl a girl on a dreamer with the girl on my own and i watch your says im
+----- Diversity:0.6
+----- Generating with seed:
+"so shame on me now flew me"
+so shame on me now flew me to places id never been now im lying on the cold hard ground oh oh trouble trouble oh oh oh but i knew you were trouble when you walked in so shame on me now flew me to places id never been now im lying on the cold hard ground
+----- Diversity:0.7
+----- Generating with seed:
+"so shame on me now flew me"
+so shame on me now flew me to places id never been now im lying on the cold hard ground oh oh oh oh trouble oh oh oh oh oh oh oh oh oh oh oh oh i dont think you think my best thing for the years and ill be the actress starring in your bad
+================================================================================
+
+----- Generating text after Epoch: 5
+----- Diversity:0.3
+----- Generating with seed:
+"all over me i know what they"
+all over me i know what they all say mmm i dont know what to say since a twist of fate when it all broke down and the story of us looks a lot like a tragedy now now now i dont know what to think im a girl at the list of my things is you
+----- Diversity:0.4
+----- Generating with seed:
+"all over me i know what they"
+all over me i know what they all say say since a little boy whos song so i didnt know that you wanna be so you come around and i guess youre gone cause i cant breathe and gone and gone gone when you think tim mcgraw i hope you think my favorite song the one we
+----- Diversity:0.5
+----- Generating with seed:
+"all over me i know what they"
+all over me i know what they all say i wanted cmon dont leave me this i thought i had you figured out somethings gone terribly wrong wont be wrong oh darling dont you think i think about the girls but i dont wanna be just only be your love and i cant help it if you
+----- Diversity:0.6
+----- Generating with seed:
+"all over me i know what they"
+all over me i know what they all say how it was a reason here i know you wouldnt be you gone and you say nothing i did something all too in well to take them away and heres to my my friends oh oh my my so in my hair i dont know why but with
+----- Diversity:0.7
+----- Generating with seed:
+"all over me i know what they"
+all over me i know what they all say cmon dont miss you and i dont wanna miss you this come back be here i know that its not fine all i know is a simple name everything has changed all i know is we had a beautiful magic love there what what to do look what
+================================================================================
+
+----- Generating text after Epoch: 6
+----- Diversity:0.3
+----- Generating with seed:
+"asking you last time im asking you"
+asking you last time im asking you last time im asking you last time im asking you last time im asking you last time im asking you last time im asking you last time im asking you last time im asking you last time im asking you last time im asking you last time im asking you
+----- Diversity:0.4
+----- Generating with seed:
+"asking you last time im asking you"
+asking you last time im asking you last time im asking you last time im asking you last time im asking you last time im asking you last time im asking you last time im asking you last time im asking you last time im asking you last time im asking you last time im asking you
+----- Diversity:0.5
+----- Generating with seed:
+"asking you last time im asking you"
+asking you last time im asking you last time im asking you last time im asking you last time im asking you last time im asking you last time im asking you last time im asking you last time im asking you last time im asking you last time im asking you last time im asking you
+----- Diversity:0.6
+----- Generating with seed:
+"asking you last time im asking you"
+asking you last time im asking you last time im asking you last time im asking you last time im asking you this this is the last time im asking you last time im asking you last time im asking you last time im asking you last time im asking this this is you last time im
+----- Diversity:0.7
+----- Generating with seed:
+"asking you last time im asking you"
+asking you last time im asking you last time im asking you this this is the last time im asking you this put my name at the top of your list this is the last time im asking you why this is the last time im asking you last time im asking you this this is why
+================================================================================
+
+----- Generating text after Epoch: 7
+----- Diversity:0.3
+----- Generating with seed:
+"looks a lot like a tragedy now"
+looks a lot like a tragedy now now were looking on now now weve got bad blood hey did you have to do this i was thinking that you could be beautiful and i love you with your head on my phone and i know i know places i know places we are the hunters we are
+----- Diversity:0.4
+----- Generating with seed:
+"looks a lot like a tragedy now"
+looks a lot like a tragedy now now now and i dont know what to say since a twist of fate because were going down to the story who feels a mess of a dreamer you with the road oh im only me like im trying to figure out it down down and i knew i dont
+----- Diversity:0.5
+----- Generating with seed:
+"looks a lot like a tragedy now"
+looks a lot like a tragedy now now were looking on now its just think of your hands out of things at all you are is mean someday ill be big enough so you cant hit me and all youre ever gonna be is mean someday ill be big enough so you cant hit me and all
+----- Diversity:0.6
+----- Generating with seed:
+"looks a lot like a tragedy now"
+looks a lot like a tragedy now now now were looking down for the road to december it all the time no time you do im just for you another time for you feels the time for the first time im asking me why why you break my heart and ill be the same that is a
+----- Diversity:0.7
+----- Generating with seed:
+"looks a lot like a tragedy now"
+looks a lot like a tragedy now now now and were not speaking and im dying to know is it killing you like its killing me yeah and i dont know what to think about is a simple name everything has changed all i know is you come around and tell yourself me your eyes go and
+================================================================================
+
+----- Generating text after Epoch: 8
+----- Diversity:0.3
+----- Generating with seed:
+"wonderstruck blushing all the way home ill"
+wonderstruck blushing all the way home ill spend forever wondering if you knew i was enchanted to meet you please dont be in love with someone else please dont have somebody waiting on you now just to do and i know you know i know places i know places we are the hunters we are the foxes
+----- Diversity:0.4
+----- Generating with seed:
+"wonderstruck blushing all the way home ill"
+wonderstruck blushing all the way home ill spend forever wondering if you knew i was enchanted to meet you please dont be in love with someone else please dont have somebody waiting on you now just to do i know you do you say that i live that im romeo you turn your very first string i
+----- Diversity:0.5
+----- Generating with seed:
+"wonderstruck blushing all the way home ill"
+wonderstruck blushing all the way home ill spend forever wondering if you knew i was enchanted to meet you please dont be in love with someone else please dont have somebody waiting on you now just to do and i know you know i know places i know places we are the ever getting back and we
+----- Diversity:0.6
+----- Generating with seed:
+"wonderstruck blushing all the way home ill"
+wonderstruck blushing all the way home ill spend forever wondering if you knew i was enchanted to meet you please dont be in love with someone else please dont have somebody waiting on you now ill just want to tell you know you know you belong with me you belong with me oh i remember you driving
+----- Diversity:0.7
+----- Generating with seed:
+"wonderstruck blushing all the way home ill"
+wonderstruck blushing all the way home ill spend forever wondering if you knew i was enchanted to meet you please dont be in love with someone else please dont have somebody waiting on you now now ill change our very first first string i wanna be your ateam  whoa whoa i wanna be your end game
+================================================================================
+
+----- Generating text after Epoch: 9
+----- Diversity:0.3
+----- Generating with seed:
+"you figured out cant breathe whenever youre"
+you figured out cant breathe whenever youre gone cant turn back now im haunted oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh
+----- Diversity:0.4
+----- Generating with seed:
+"you figured out cant breathe whenever youre"
+you figured out cant breathe whenever youre gone cant turn back now im haunted oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh
+----- Diversity:0.5
+----- Generating with seed:
+"you figured out cant breathe whenever youre"
+you figured out cant breathe whenever youre gone cant turn back now im haunted oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh all you were trouble trouble the last time i saw you oh my my my name the end on your name inside my mind i
+----- Diversity:0.6
+----- Generating with seed:
+"you figured out cant breathe whenever youre"
+you figured out cant breathe whenever youre gone cant turn back now im haunted oh i dont think you do i was thinking all we cant breathe and ill be gone in so you can say come back to be the actress whoa and well sing hallelujah oh oh oh oh oh oh oh oh oh oh
+----- Diversity:0.7
+----- Generating with seed:
+"you figured out cant breathe whenever youre"
+you figured out cant breathe whenever youre gone cant turn back now im haunted oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh
+================================================================================
+
+----- Generating text after Epoch: 10
+----- Diversity:0.3
+----- Generating with seed:
+"you would say hey it was enchanting"
+you would say hey it was enchanting to meet you your eyes im sick and tired of your reasons ive got no one to believe in you ask me for my love then you push me around heres to you and your temper yes i remember what you said last night and i know that you see
+----- Diversity:0.4
+----- Generating with seed:
+"you would say hey it was enchanting"
+you would say hey it was enchanting to meet you your eyes made me and you were made me crazy if you were romeo you were looking at you feels like one of those nights you look like bad news i gotta have you i gotta have you ever i dont wanna be your end game end
+----- Diversity:0.5
+----- Generating with seed:
+"you would say hey it was enchanting"
+you would say hey it was enchanting to meet you your eyes say you know me his pride in you can love you was the one thing in the sky of your face like i believe you in my head i dont know why know im not off you not around all alone i was a reason
+----- Diversity:0.6
+----- Generating with seed:
+"you would say hey it was enchanting"
+you would say hey it was enchanting to meet you all your eyes look at me you made your hand and then you were everything me to everything to be mad but if you come with me so yes this is everything to be alright i wait forever and ever broke your heart ill put it back
+----- Diversity:0.7
+----- Generating with seed:
+"you would say hey it was enchanting"
+you would say hey it was enchanting to meet you your eyes go back me in lights and you know your love then you and everything has changed the same its to see the things you like about me do you had to do what you do like me do look and your made us back to
+================================================================================
+
+----- Generating text after Epoch: 11
+----- Diversity:0.3
+----- Generating with seed:
+"yeah call it what you want to"
+yeah call it what you want to my babys fly like a jet stream high above the whole scene loves me like im brand new call it what you want call it so call it what you want yeah call it what you want to my babys fly like a jet stream high above the whole scene
+----- Diversity:0.4
+----- Generating with seed:
+"yeah call it what you want to"
+yeah call it what you want to my babys fly like a jet stream high above the whole scene loves me like im brand new call it what you want call it so call it what you want yeah call it what you want to my babys fly like a jet stream high above the whole scene
+----- Diversity:0.5
+----- Generating with seed:
+"yeah call it what you want to"
+yeah call it what you want to my babys fly like a jet stream high above the whole scene loves me like im brand new call it what you want call it so call it what you want yeah call it what you want to my babys fly like a jet stream high above the whole scene
+----- Diversity:0.6
+----- Generating with seed:
+"yeah call it what you want to"
+yeah call it what you want to my babys fly like a jet stream high above the whole scene loves me like im brand new call it what you want call it so call it what you want yeah call it what you want to my babys fly like a jet stream high above the whole scene
+----- Diversity:0.7
+----- Generating with seed:
+"yeah call it what you want to"
+yeah call it what you want to my babys fly like a jet stream high above the whole scene loves me like im brand new call it what you want call it so call it what you want yeah call it what you want to my babys fly like a jet stream high above the whole scene
+================================================================================
+
+----- Generating text after Epoch: 12
+----- Diversity:0.3
+----- Generating with seed:
+"makes me so mad youre gorgeous you"
+makes me so mad youre gorgeous you make me so happy it turns back to sad theres nothing i hate more than what i cant have guess ill just want to show you know you know you cause all i know is we said hello so dust off your eyes says im so furious at you for
+----- Diversity:0.4
+----- Generating with seed:
+"makes me so mad youre gorgeous you"
+makes me so mad youre gorgeous you make me so happy it turns back to sad theres nothing i hate more than what i cant have guess ill just want to show you know you know you cause shes not what you live it said all an angel wont hurt nobody hurt you and i got that
+----- Diversity:0.5
+----- Generating with seed:
+"makes me so mad youre gorgeous you"
+makes me so mad youre gorgeous you make me so happy it turns back to sad theres nothing i hate more than what i cant have guess ill just want to be so right you stood there in my hair i can hear it in the silence silence you you can feel it on the way home
+----- Diversity:0.6
+----- Generating with seed:
+"makes me so mad youre gorgeous you"
+makes me so mad youre gorgeous you make me so happy it turns back to sad theres nothing i hate more than what i cant have guess ill just have wait to wait and see the phone now i know youre all good i know ill be big castle and all youre ever going to be is
+----- Diversity:0.7
+----- Generating with seed:
+"makes me so mad youre gorgeous you"
+makes me so mad youre gorgeous you make me so happy it turns back to sad theres nothing i hate more than what i cant have guess ill just want to show you know you know you cause youre gone and all youre ever going to be is mean why you gotta be so mean someday ill
+================================================================================
+
+----- Generating text after Epoch: 13
+----- Diversity:0.3
+----- Generating with seed:
+"heard about me so hey lets be"
+heard about me so hey lets be friends im dyin to see how this one ends grab your mind and then youre going to be fifteen and when youre fifteen and somebody tells you they love you youre going to believe them and when youre fifteen feeling like its not before no nothing i cant know what
+----- Diversity:0.4
+----- Generating with seed:
+"heard about me so hey lets be"
+heard about me so hey lets be friends im dyin to see how this one ends grab your dreams and i dont know about you but im feeling 22 everything will be alright if you keep me next to you you dont know about me but i bet you wanted to everything will be alright if we
+----- Diversity:0.5
+----- Generating with seed:
+"heard about me so hey lets be"
+heard about me so hey lets be friends im dyin to see how this one ends grab your back and i dont wanna miss you like the other girls do i dont wanna hurt you i just wanna be drinking on a girl ill be big old whoa and you i know youre not gone gone gone
+----- Diversity:0.6
+----- Generating with seed:
+"heard about me so hey lets be"
+heard about me so hey lets be friends im dyin to see how we can have nice things honey i used to think about the place where you first met me ridin in a getaway car there were sirens in the beat of your heart i shoulda known id be the first to leave think about the
+----- Diversity:0.7
+----- Generating with seed:
+"heard about me so hey lets be"
+heard about me so hey lets be friends im dyin to see how this one ends grab your life and i need to you and you should have me just to tell you i dont know you cause all i know is we said hello so dust off your eyes look at me and you and i
+================================================================================
+
+----- Generating text after Epoch: 14
+----- Diversity:0.3
+----- Generating with seed:
+"oh oh oh oh dear john i"
+oh oh oh oh dear john i see it all now that youre gone dont you think i was too young to be messed with the girl in the dress cried the whole way home i see it all now that youre gone dont you think i was too young to be messed with the girl in
+----- Diversity:0.4
+----- Generating with seed:
+"oh oh oh oh dear john i"
+oh oh oh oh dear john i see it all now that youre gone dont you think i was too young to be messed with the girl in the dress cried the whole way home i see it all now that youre gone dont you think i was too young to be messed with the girl in
+----- Diversity:0.5
+----- Generating with seed:
+"oh oh oh oh dear john i"
+oh oh oh oh dear john i see it all now that youre gone dont you think i was too young to be messed with the girl in the dress cried the whole way home i see it all now that youre gone dont you think i was too young to be messed with the girl in
+----- Diversity:0.6
+----- Generating with seed:
+"oh oh oh oh dear john i"
+oh oh oh oh dear john i see it all now that youre gone dont you think i was too young to be messed with the girl in the dress cried the whole way home i see it all now that youre gone dont you think i was too young to be messed with the girl in
+----- Diversity:0.7
+----- Generating with seed:
+"oh oh oh oh dear john i"
+oh oh oh oh dear john i see it all now that youre gone dont you think i was too young to be messed with the girl in the dress cried the whole way home i see it all now that youre gone dont you see i was a dreamer in the car i could stay like
+================================================================================
+
+----- Generating text after Epoch: 15
+----- Diversity:0.3
+----- Generating with seed:
+"went and let me down now its"
+went and let me down now its too late for you and your white horse to come around and there you are on your knees and bring on all the pretenders one day we will be remembered hold on to spinning around and make it alright i go back to december all the time it turns out
+----- Diversity:0.4
+----- Generating with seed:
+"went and let me down now its"
+went and let me down now its too late for you and your white horse to come around and there you are on your knees and i know what i wanna be so much i wanna be your end game i wanna be your end game i wanna be your end game i wanna be your end
+----- Diversity:0.5
+----- Generating with seed:
+"went and let me down now its"
+went and let me down now its too late for you and your white horse now its too late for you and your white horse to come around and there you are on your knees and bring on all the pretenders one day we will be remembered hold on to spinning around and i know places we
+----- Diversity:0.6
+----- Generating with seed:
+"went and let me down now its"
+went and let me down now its too late for you and your white horse to come around and there you are on your knees and bring on all the pretenders lights is still will be well come back be around i never be big castle out of all i was enchanted to meet you please dont
+----- Diversity:0.7
+----- Generating with seed:
+"went and let me down now its"
+went and let me down now its too late for you and your white horse to me i can take this this love is the one first to another thing thing cause it all down and thats that he says you need me yeah and i do you see your face i can see it with you
+================================================================================
+
+----- Generating text after Epoch: 16
+----- Diversity:0.3
+----- Generating with seed:
+"feel like you know what youre doing"
+feel like you know what youre doing i dont think you do i dont think you do lets hear the applause come on show me how much better you are so much better better than you ha just right right here i guess was in new york today i dont wanna need you this way come back
+----- Diversity:0.4
+----- Generating with seed:
+"feel like you know what youre doing"
+feel like you know what youre doing i dont think you do i dont wanna miss you like this come back be here come back be here i guess youre in new york today i dont wanna need you this way come back be here i come back be here i guess youre in new york today
+----- Diversity:0.5
+----- Generating with seed:
+"feel like you know what youre doing"
+feel like you know what youre doing i dont think you do i dont think you do lets hear the applause come on show me how much better you are so much better better better than ha just want you ever back to the phone this is me i do bad but you alone your eyes for
+----- Diversity:0.6
+----- Generating with seed:
+"feel like you know what youre doing"
+feel like you know what youre doing i dont think you do i dont wanna miss you like this come back be here come back be here i guess youre in new york today i dont wanna need you this way come back be here come back be here i guess youre in new york today i
+----- Diversity:0.7
+----- Generating with seed:
+"feel like you know what youre doing"
+feel like you know what youre doing i dont think you do i dont wanna miss you made me crazy if you want it back now that its just too late all you had to do was stay all you had to do was stay all you had to do was stay all you had to do
+================================================================================
+
+----- Generating text after Epoch: 17
+----- Diversity:0.3
+----- Generating with seed:
+"hope they shine long live the walls"
+hope they shine long live the walls we crashed through i had the time of my life fighting with the phone and then you makes me feel you can feel this way i used to be pictures forever never ever here i was better than my babys pictures like a little kid i think its strange that
+----- Diversity:0.4
+----- Generating with seed:
+"hope they shine long live the walls"
+hope they shine long live the walls we crashed through i had the time of my life fighting with the phone and then you find me cause its not to me like its all a little story of my old taylor just like oh i dont know about you but im feeling 22 everything will be alright
+----- Diversity:0.5
+----- Generating with seed:
+"hope they shine long live the walls"
+hope they shine long live the walls we crashed through i had the time of my life fighting with the phone and you i wanna fly around the phone like its not your princess its a best of girl its the same this is the last time im asking you why this is the last time im
+----- Diversity:0.6
+----- Generating with seed:
+"hope they shine long live the walls"
+hope they shine long live the walls we crashed through i had the time of my life fighting dont blame me your love made me crazy if it doesnt you aint doin it right lord save me my drug is my baby ill be usin for the rest of my life i get so high oh every
+----- Diversity:0.7
+----- Generating with seed:
+"hope they shine long live the walls"
+hope they shine long live the walls we crashed through i had the time of my life fighting with you and your name shes the kind of your mind i hit all the time and ill never be the whole girl i loved you and the bad ones too you hit me like you knew a simple
+================================================================================
+
+----- Generating text after Epoch: 18
+----- Diversity:0.3
+----- Generating with seed:
+"this simple wont let nobody hurt you"
+this simple wont let nobody hurt you wont let no one break your heart and no no one thing i cant help myself cant help it if you look like an angel cant help it if i wanna kiss you in the rain so come feel this magic ive been feeling since i met you cant help
+----- Diversity:0.4
+----- Generating with seed:
+"this simple wont let nobody hurt you"
+this simple wont let nobody hurt you wont let no one break your heart and no no one night youre looking back together yeah we are never ever ever getting back together we are never ever ever getting back together we are never ever ever getting back together we are never ever ever getting back together we
+----- Diversity:0.5
+----- Generating with seed:
+"this simple wont let nobody hurt you"
+this simple wont let nobody hurt you wont let no one break your heart and no no one night youre beautiful beautiful every little piece love and dont you know youre really gonna be someone ask anyone and when you find everything you looked for i hope your life will lead you back to my front door
+----- Diversity:0.6
+----- Generating with seed:
+"this simple wont let nobody hurt you"
+this simple wont let nobody hurt you wont let no one break your heart and no no one else and i cant help myself i cant help myself say youre sorry that face of an angel comes out just when you need it to as i love you go and it too gone and i was enchanted
+----- Diversity:0.7
+----- Generating with seed:
+"this simple wont let nobody hurt you"
+this simple wont let nobody hurt you wont let no one break your heart and no no one who was me not been all you had to do was the first time i do the best of me your dress play play a picture of your car and shes got your list i dont know about to
+================================================================================
+
+----- Generating text after Epoch: 19
+----- Diversity:0.3
+----- Generating with seed:
+"a jet stream high above the whole"
+a jet stream high above the whole scene loves me like im brand new call it what you want call it so call it what you want yeah call it what you want to my babys fly like a jet stream high above the whole scene loves me like im brand new call it what you want
+----- Diversity:0.4
+----- Generating with seed:
+"a jet stream high above the whole"
+a jet stream high above the whole scene loves me like im brand new call it what you want call it so call it what you want yeah call it what you want to my babys fly like a jet stream high above the whole scene loves me like im brand new call it what you want
+----- Diversity:0.5
+----- Generating with seed:
+"a jet stream high above the whole"
+a jet stream high above the whole scene loves me like im brand new call it what you want call it so call it what you want yeah call it what you want to my babys fly like a jet stream high above the whole scene loves me like im brand new call it what you want
+----- Diversity:0.6
+----- Generating with seed:
+"a jet stream high above the whole"
+a jet stream high above the whole scene loves me like im brand new call it what you want call it so call it what you want yeah call it what you want to my babys fly like a jet stream high above the whole scene loves me like im brand new call it what you want
+----- Diversity:0.7
+----- Generating with seed:
+"a jet stream high above the whole"
+a jet stream high above the whole scene loves me like im brand new call it what you want call it so call it what you want yeah call it what you want to my babys fly like a jet stream high above the whole scene loves me like im brand new call it what you want
+================================================================================
